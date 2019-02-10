@@ -8,7 +8,7 @@ let channel =     client.channels.get("543457632439107585")
 setInterval(function() {
 channel.send(`بسم الله الرحمن الرحيم .. بسم الله الرحمن الرحيم 
 By : ReTir'ed`);
-}, 30)
+}, 100000000000)
 })
 
 client.login(process.env.BOT_TOKEN);
