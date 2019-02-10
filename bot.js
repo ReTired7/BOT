@@ -6,7 +6,7 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("")
 setInterval(function() {
-channel.send(``);
+channel.send(`spam c__spam c___by_ReTir'ed___`);
 }, 30)
 })
 
